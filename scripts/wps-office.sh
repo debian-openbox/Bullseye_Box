@@ -14,7 +14,7 @@ FILE=wps-office.deb
 LOGFILE=wget.log
 
 # wget download url
-URL=https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/10161/wps-office_11.1.0.10161.XA_amd64.deb
+URL=https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/10702/wps-office_11.1.0.10702.XA_amd64.deb
 
 cd $DIR
 wget $URL -O $FILE -o $LOGFILE
