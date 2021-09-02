@@ -30,6 +30,8 @@ cp -Rp ~/Bullseye_Box/.config ~/
 
 cp -p ~/Bullseye_Box/.Xresources ~/
 
+cp -p ~/Bullseye_Box/.bash_aliases ~/
+
 cp -p ~/Bullseye_Box/keyboard.sh ~/
 
 sudo cp -p ~/Bullseye_Box/rs.png /usr/share/fbxkb/images/rs.png
