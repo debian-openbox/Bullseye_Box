@@ -30,7 +30,10 @@ cp -Rp ~/Bullseye_Box/.config ~/
 
 cp -p ~/Bullseye_Box/.Xresources ~/
 
-cp -p ~/Bullseye_Box/.bash_aliases ~/
+--------------------------------------------------------
+# gdrive_download long_google_drive_file_id filename.ext
+cp -p ~/Bullseye_Box/.bash_aliases ~/ 
+--------------------------------------------------------
 
 cp -p ~/Bullseye_Box/keyboard.sh ~/
 
