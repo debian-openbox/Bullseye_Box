@@ -13,6 +13,8 @@ tint2 &
 
 fbxkb &
 
+mpd &
+
 urxvtd -q &
 
 #~/conkystartup.sh
